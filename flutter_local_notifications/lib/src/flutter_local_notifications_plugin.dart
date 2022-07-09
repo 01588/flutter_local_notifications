@@ -5,6 +5,7 @@ import 'package:flutter_local_notifications_linux/flutter_local_notifications_li
 import 'package:flutter_local_notifications_platform_interface/flutter_local_notifications_platform_interface.dart';
 import 'package:timezone/timezone.dart';
 
+ import '../../../flutter_local_notifications_platform_interface/lib/flutter_local_notifications_platform_interface.dart';
 import 'initialization_settings.dart';
 import 'notification_details.dart';
 import 'platform_flutter_local_notifications.dart';
